@@ -1,0 +1,29 @@
+.profile {
+    display:flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+
+.htext {
+    text-align: center;
+
+}
+
+.htext h1 {
+    font-family: "Cal Sans", sans-serif;
+}
+
+.htext p {
+    font-family: "Didact Gothic", sans-serif;
+}
+
+.hbox img {
+    width: 526px;
+    border-radius: 33px;
+}
+
+.socials a {
+
+}

@@ -25,39 +25,15 @@ form {
     font-family: "Didact Gothic", sans-serif;
 }
 
-.hbox {
-    display: flex;
-}
-
-.hbox img {
-    width: 526px;
-    border-radius: 33px;
-}
-
 .psidebar img {
     width:437px;
     border-radius: 26px;
-}
-
-tr {
-}
-
-td {
-    display: grid;
-    font-family: "Didact Gothic", sans-serif;
 }
 
 td img {
     height: 200px;
     box-shadow: 1px 7px 10px rgb(97, 97, 97);
 }
-
-.hbox {
-  display: flex;
-  flex-direction: column;
-}
-
-
 
 footer {
     text-align: center;
