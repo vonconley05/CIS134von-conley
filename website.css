@@ -53,6 +53,30 @@ body {
     background-color: #EEE0CB;
 }
 
+.conform {
+    display: flex;
+    justify-content: ;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-right: 100px;
+}
+
+.cform {
+    padding-right: 100px;
+    padding-left: 10%;
+}
+
+input {
+    padding: 10%;
+}
+
+input[type=text] {
+    padding: 7%;
+    border-radius: 8px;
+    width: 300%;
+    min-width: 75%;
+}
+
 footer p {
     color:#EEE0CB;
 }
