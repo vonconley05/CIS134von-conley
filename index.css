@@ -20,12 +20,19 @@
 }
 
 .hbox img {
-    width: 526px;
+    width: 400px;
     border-radius: 33px;
+    padding-top: 5%;
 }
 
-.socials a {
+.socials h2 {
+    font-family: "Cal Sans", sans-serif;
+    text-align: center;
+}
 
+.socials img {
+    width: 60px;
+    border-radius: 0px;
 }
 
 p {
