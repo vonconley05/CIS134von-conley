@@ -1,0 +1,10 @@
+.superdiv {
+    display: flex;
+    justify-content: space-between;
+    padding: 10%;
+    font-family: "Didact Gothic";
+}
+.superdiv img {
+    height: 300px;
+    box-shadow: 1px 7px 10px rgb(97, 97, 97);
+}

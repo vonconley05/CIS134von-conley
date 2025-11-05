@@ -30,11 +30,6 @@ form {
     border-radius: 26px;
 }
 
-td img {
-    height: 200px;
-    box-shadow: 1px 7px 10px rgb(97, 97, 97);
-}
-
 footer {
     text-align: center;
     background-color: #374732;
@@ -55,7 +50,6 @@ body {
 
 .conform {
     display: flex;
-    justify-content: ;
     padding-left: 100px;
     padding-top: 50px;
     padding-right: 100px;
