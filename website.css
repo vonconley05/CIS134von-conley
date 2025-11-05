@@ -53,6 +53,22 @@ body {
     padding-left: 100px;
     padding-top: 50px;
     padding-right: 100px;
+    font-family: "Cal Sans";
+}
+
+.conform img {
+    width:380px;
+}
+
+.conform h1 {
+    color:#221A18;
+}
+
+.conform p {
+    color:#221A18;
+}
+.conform h4 {
+    color:#916953;
 }
 
 .cform {
@@ -69,6 +85,7 @@ input[type=text] {
     border-radius: 8px;
     width: 300%;
     min-width: 75%;
+    font-family: "didact gothic";
 }
 
 footer p {
